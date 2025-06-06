@@ -1,0 +1,33 @@
+body{
+    
+  background-color: paleturquoise;
+  text-align: center;  
+   font-family: Cascadia Code; 
+}
+
+.bgDark{
+    
+    background-color: mediumturquoise
+    
+}
+
+a{
+    
+    color: azure;
+font-family: fantasy;
+}
+
+a:hover{
+    
+    color: cornflowerblue;
+}
+
+h1{
+   
+  font-family: "Fugaz One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
